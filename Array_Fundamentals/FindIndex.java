@@ -1,4 +1,6 @@
 // Q11 - Find an Element's Index in an Array
+// this is also the program of searching 
+
 import java.util.*;
 
 public class FindIndex{

@@ -27,7 +27,7 @@ public class FrequencyOfArray{
             }
         }
 
-        System.out.println("Frequency of "+targegt+ ": "+count);
+        System.out.println("Frequency of "+target+ ": "+count);
 
         sc.close();
     }
