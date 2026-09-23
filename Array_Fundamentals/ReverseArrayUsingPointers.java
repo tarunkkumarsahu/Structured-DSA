@@ -32,6 +32,7 @@ public class ReverseArrayUsingPointers{
             left++;
             right--;
         }
+        
         System.out.print("Reverse Array is: ");
 
         for(int i = 0 ; i < arr.length ; i++){
