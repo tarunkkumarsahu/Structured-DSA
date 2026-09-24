@@ -9,6 +9,12 @@ public class SecondLargest{
         System.out.print("Enter the size of the array: ");
         int size = sc.nextInt();
 
+        if (size < 2) {
+            System.out.println("Second largest distinct element not found.");
+            sc.close();
+            return;
+        }
+        
         int[] arr = new int[size];
 
         System.out.print("Enter "+size+" elements: ");
