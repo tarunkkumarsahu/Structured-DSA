@@ -7,7 +7,7 @@ A structured Java DSA learning repository focused on understanding logic, writin
 | Topic | Progress | Status |
 |---|---:|---|
 | Array Fundamentals | 20 / 20 | Complete |
-| Strings | 0 / 15 | Next |
+| Strings | 11 / 20 | In Progress |
 | Basic Sorting | 0 / 10 | Upcoming |
 | Binary Search | 0 / 12 | Upcoming |
 | Array Patterns | 0 / 20 | Upcoming |
@@ -27,6 +27,7 @@ A structured Java DSA learning repository focused on understanding logic, writin
 ## Repository Structure
 
 - **Array_Fundamentals/** — completed array problems and topic README
+- **String/** — string problems covering character operations, frequency, palindrome, anagrams, and related logic
 - **Practice/** — scratch work, templates, and revision practice
 - **Collage_Programs/** — college-related Java programs
 
