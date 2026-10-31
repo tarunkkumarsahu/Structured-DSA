@@ -24,6 +24,21 @@ A structured Java DSA learning repository focused on understanding logic, writin
 | Backtracking | 0 / 12 | Upcoming |
 | Bit Manipulation | 0 / 10 | Upcoming |
 
+## College DSA Lab Practice
+
+Current lab practice covers the first eight core data-structure assignments:
+
+1. Stack — push, pop, peek, display
+2. Queue using array — enqueue, dequeue, display
+3. Singly linked list — insertion, deletion, display
+4. Binary tree — recursive inorder, preorder, and postorder traversal
+5. Binary search tree — non-recursive inorder and preorder traversal
+6. BST analysis — level-wise display, height, and leaf nodes
+7. Graph traversal — DFS using an adjacency matrix
+8. Graph traversal — BFS using an adjacency list
+
+This section is intended as a practical revision checklist alongside the topic-wise problem-solving track.
+
 ## Repository Structure
 
 - **Array_Fundamentals/** — completed array problems and topic README
